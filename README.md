@@ -1,5 +1,5 @@
 # Overview of Election Audit
-
+The election audit covered name of candidates, the number of votes for each candidate, and the county from where those votes came from.
 
 ## Election-Audit Results
 
