@@ -21,4 +21,8 @@
 
 - Winning Candidate Summary
   The candidtat that received the most votes, thus winning the election, was Diana Degette, with 272,892 votes, or 73.8% of all votes cast.
+  
+  ## Election-Audit Summary
+  
+  The election audit was able to report the number of total votes, the number of votes cast for each candidate and the resulting winning candidate. Further, the election audit was able to report the number of votes case in each county, and which county received the most votes (or best voter turnout). The audit confirms that the code used would be suitable for voting audits in other elections. The code is easily adaptable to provide voter counts by changing few parameters (specifically data reported in differing columns, and additional data points such as counties and candidates).
 
